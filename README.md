@@ -1,8 +1,12 @@
 🧠 Exercícios Avançados de JavaScript
+
 Bem-vindo(a)! 👋
+
 Este repositório contém 9 exercícios organizados em três seções: estruturas de controle avançadas, funções/recursão e manipulação de arrays e objetos. Eles foram pensados para quem já tem noções básicas de lógica e deseja aprofundar seus conhecimentos em JavaScript moderno.
 
+
 📋 Índice
+
 ✅ Pré-requisitos
 
 ⬇️ Como Baixar
@@ -10,6 +14,8 @@ Este repositório contém 9 exercícios organizados em três seções: estrutura
 ▶️ Como Executar os Exercícios
 
 📚 Lista de Exercícios
+
+
 
 ✅ Pré-requisitos
 Antes de começar, verifique se você tem os seguintes itens instalados no seu computador:
@@ -36,6 +42,8 @@ Busque por "Code Runner" (autor: Jun Han)
 
 Clique em “Instalar”
 
+
+
 ⬇️ Como Baixar
 Você pode obter os arquivos de duas maneiras:
 
@@ -53,6 +61,9 @@ Clique em “Code” → “Download ZIP”
 
 Extraia o conteúdo no seu computador
 
+
+
+
 ▶️ Como Executar os Exercícios
 Usando o VS Code + Code Runner:
 
@@ -68,8 +79,13 @@ Escolha “Run Code”
 
 Veja o resultado na aba "Output"
 
+
+
+
 📚 Lista de Exercícios
+
 🧩 Seção 1: Estruturas de Controle Avançadas
+
 ex1.js – Validação de Datas
 Crie a função ehDataValida(dia, mes, ano) que retorna true para datas válidas (considerando anos bissextos) e false caso contrário.
 
@@ -79,7 +95,9 @@ Gere um número aleatório de 1 a 100. O usuário deve adivinhar com dicas de �
 ex3.js – Palavras Únicas
 Dada uma string com palavras repetidas, exiba apenas as palavras únicas em um array. Use if/else e for.
 
+
 🔁 Seção 2: Funções e Recursão
+
 ex4.js – Fatorial Recursivo
 Implemente a função fatorial(n) recursivamente. Lance erro para n < 0 e retorne 1 para n === 0.
 
@@ -89,7 +107,9 @@ Crie a função debounce(fn, delay), que só executa fn se não for chamada nova
 ex6.js – Memoization
 Implemente a função memoize(fn) que armazena os resultados anteriores de fn e evita reprocessamentos com os mesmos argumentos.
 
+
 🧮 Seção 3: Arrays e Objetos Complexos
+
 ex7.js – Mapeamento e Ordenação
 Com um array produtos = [{ nome, preco }, …], retorne um array apenas com os nomes, ordenados por preço crescente.
 
